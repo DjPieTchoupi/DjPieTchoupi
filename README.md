@@ -56,7 +56,7 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 ## 📬 Contact
 
 - 💬 Discord: `dj_pie_tchoupi`  
-- 🌐 BuiltByBit: [Your service thread URL here]
+- 🌐 BuiltByBit: [https://builtbybit.com/search/5998812/]
 
 ---
 
