@@ -30,6 +30,7 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 - Replicates Minemen-style knockback
 - Tuned hit detection and consistent combat feel
 - Fully customizable and lightweight
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=gfEtU2Vm6Vo)
 
 ---
 
