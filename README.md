@@ -22,8 +22,7 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 - Plant, grow, and sell crops in a fully custom system
 - Can handle over **100,000 plants** simultaneously
 - Custom scoreboard, world generation, and entities
-- 
-[Click here to watch this demo (Coming very soon)](https://www.youtube.com/@dj_pie_tchoupi)
+- [Click here to watch this demo (Coming very soon)](https://www.youtube.com/@dj_pie_tchoupi)
 
 ---
 
@@ -32,8 +31,7 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 - Replicates Minemen-style knockback
 - Tuned hit detection and consistent combat feel
 - Fully customizable and lightweight
-- 
-[Click here to watch this demo](https://www.youtube.com/watch?v=gfEtU2Vm6Vo)
+- [Click here to watch this demo](https://www.youtube.com/watch?v=gfEtU2Vm6Vo)
 
 
 ---
@@ -43,8 +41,7 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 - Built-in features for animation, control, and triggering
 - Highly customizable and reusable across projects
 - (WIP – but looks cool already)
-- 
-[Click here to watch this demo](https://www.youtube.com/watch?v=dkrjFBH4ib0)
+- [Click here to watch this demo](https://www.youtube.com/watch?v=dkrjFBH4ib0)
 
 ---
 
