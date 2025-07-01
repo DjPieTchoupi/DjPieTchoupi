@@ -1,4 +1,4 @@
-# 🎮 Minestom Server Portfolio
+# 🎮 Dj's Minestom Server Portfolio
 
 Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, async-first server platform. I build scalable, performant, and cleanly written systems — from full server setups to custom gameplay mechanics.
 
