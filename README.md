@@ -1,6 +1,6 @@
-# 🎮 Dj's Minestom Server Portfolio
+# Dj's Portfolio
 
-Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, async-first server platform. I build scalable, performant, and cleanly written systems — from full server setups to custom gameplay mechanics.
+Welcome! I'm a Minecraft developer working on Minestom servers as well as custom mods and client.
 
 ---
 
@@ -8,10 +8,9 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 
 - Custom minigames (duels, parkour, capture-the-flag, etc.)
 - Full server setups with optimized performance
-- Modular game managers and efficient game loops
-- Scoreboards, boss bars, particles, and UI systems
-- Reliable data saving/loading with custom object serializers
-- Custom entities, packet listeners, and event systems
+- Minecraft clients
+- Utility Mods
+- Custom entities
 
 ---
 
@@ -50,8 +49,10 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 - Java (primary) + Python (tools/utilities)
 - Minestom 1.21.x
 - Maven / Gradle
+- MCP 1.8.9
 
 ---
+> Want a test server or demo of any system? Just ask!
 
 ## 📬 Contact
 
@@ -60,4 +61,3 @@ Welcome! I'm a Minecraft developer specializing in **Minestom**, the modern, asy
 
 ---
 
-> Want a test server or demo of any system? Just ask!
